@@ -222,4 +222,22 @@ En cuanto a velocidad de acceso también se ha comprobado que es mucho mas efica
 
 Por lo que realizando procesos concurrentes puros que usaran listas, ganariamos en velocidad y espacio en memoria
 
+##MATLAB
+
+###Contextualización
+Usado MATLAB 2015a sobre un plataforma Windows. Pasamos la imagen en un fichero llamado "quad.txt". Los demás parametros vienen prefijados en nuestro "main" ya que ha sido más compricado que en otros lenguajes pasarle la entrada.
+
+###Ventajas y desventajas
+MATLAB es un lenguaje perfecto para la manipulacion de matrices, representacion de datos y funciones. También dispone de la fuerza de la OO y la implementación de algoritmos.
+
+Aunque la utilización y operacion con matrices que no sean numéricas ha sido bastante más complicado que con otros lenguajes.
+
+###Justificaciones
+Puede ser debido a la falta de experiencia con el lenguaje. Pero no nos hemos sentido cómodos con la aparente limitación que sufre con otros tipos de datos diferentes a los numéricos.
+
+Hemos tenidos bastantes problemas con eso a la hora de aplicar el parseado.
+
+###Desaprovechamientos del lenguaje
+Como comentábamos antes, debido a nuestra falta de conocimientos, lo más probable es que hayamos cometido fallos de principiante y usado técnicas de programacion poco ortodoxas. Pero al final, parseando la entrada y sustituyendo los simbolos por valores numericos ha sido posible dejar el funcionamiento lo más parecido al lenguaje original y se pudo hacer uso del manejo completo de matrices con matlab.
+
  
